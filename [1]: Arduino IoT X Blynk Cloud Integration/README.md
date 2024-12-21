@@ -8,3 +8,6 @@ In this tutorial, I share a bare minimum setup that learners can use as a founda
 - SETUP INSTRUCTION -
   
 When you open the integration.ino file in the Arduino IDE, you will be prompted to create a new folder. Click "Yes" to proceed, then place the thingProperties.h file in that newly created folder. This step is essential for organizing your project files correctly.
+
+- Walk Through -
+- https://dev.to/mytx/blueprint1-arduino-cloud-x-blynk-cloud-integration-347
